@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@52css/weapp-vue3': ^1.0.8
+
+dependencies:
+  '@52css/weapp-vue3': 1.0.8
+
+packages:
+
+  /@52css/weapp-vue3/1.0.8:
+    resolution: {integrity: sha512-K4SpOJS0Dv3KDuiXYD75OgDNHYKFpVVEhvvv9R/6tv9I7UUzWya8ahgNT5MGJIRbQmJbPWGu/Th3zcjib9Vbmw==}
+    dev: false
